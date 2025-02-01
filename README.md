@@ -1,5 +1,5 @@
-# 👋 Welcome to My GitHub – AI-Powered Cloud & Automation Strategist 🚀  
 ![wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+# Welcome to My GitHub – AI-Powered Cloud & Automation Strategist 🚀  
 
 🔹 **Name:** Artis F. 
 🔹 **Role:** AI & Cloud Automation Strategist | Process Optimization Expert  
