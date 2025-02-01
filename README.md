@@ -1,4 +1,6 @@
 # 👋 Welcome to My GitHub – AI-Powered Cloud & Automation Strategist 🚀  
+![wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+
 🔹 **Name:** Artis F. 
 🔹 **Role:** AI & Cloud Automation Strategist | Process Optimization Expert  
 🔹 **Tech Stack:** Azure | Python | MLOps | Celonis | Power BI | Terraform | AI/ML  
