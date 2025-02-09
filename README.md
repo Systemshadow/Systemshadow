@@ -10,7 +10,7 @@
 ---
 
 ### 🔥 Featured Projects  
-✅ **AI-Powered Cloud Cost Optimization** – AI-driven automation to reduce cloud expenses by 20%.  
+✅ **AI-Powered Cloud Cost Optimization** – AI-driven automation to reduce cloud expenses.  
 ✅ **AI-Driven Process Mining & Automation** – Using AI to identify & fix business inefficiencies.  
 ✅ **MLOps: AI Model Deployment Pipeline** – CI/CD pipeline for training, deploying, and monitoring AI models.  
 ✅ **AI Forex Trading Bot** – Automated forex trading with deep learning & sentiment analysis.  
